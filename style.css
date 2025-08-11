@@ -44,3 +44,24 @@ p.txt {
     padding-top: 20px;
     font-weight: bold;
 }
+
+footer {
+    padding: 5px;
+    margin-top: 50px;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: rgba(255, 255, 255, 0.692);
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.747);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
