@@ -29,15 +29,15 @@ main {
 div {
     background-color: rgb(214, 214, 214);
     width: 150px;
-    height: 150px;
+    height: 120px;
     margin: 20px;
     border-radius: 10px;
     display: inline-block;
+    padding-top: 30px;
 }
 
-p.num {
+span {
     font-size: 3em;
-    padding-top: 40px;
 }
 
 p.txt {
